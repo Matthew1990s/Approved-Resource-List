@@ -1,0 +1,28 @@
+PASS: valid deployment binding
+PASS: reject source mismatch
+PASS: reject unsupported locale
+PASS: reject invalid market format
+PASS: reject embedded credentials
+PASS: normalize heading and heading level
+PASS: bound limit and validate boolean
+PASS: limit lower bound and default
+PASS: fresh resources normalized
+PASS: response field allowlist
+PASS: local REST contract and site locale
+PASS: valid empty collection
+PASS: reject stale content
+PASS: upstream snapshot unavailable
+PASS: wrong locale
+PASS: unsafe link
+PASS: missing title
+PASS: empty title
+PASS: duplicate IDs rejected
+PASS: over-limit response rejected
+PASS: invalid binding fails before REST dispatch
+PASS: preview response policy
+PASS: preview fails closed like frontend reader
+PASS: render heading and escape text
+PASS: semantic list and escaped link text
+PASS: escape URL and hide summary
+PASS: stale content absent from rendered output
+27 isolated checks passed.
